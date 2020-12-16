@@ -5,7 +5,7 @@ HarmonyOS开源发行版（以下简称发行版）是为开发者提供的按�
 2. **向合作伙伴提供最后一公里精准推送能力** ：打通包括OpenHarmony社区、HarmonyOS包管理（HPM）、DevEco IDE工具等在内的发行版分发管道，帮助合作伙伴优化最后一公里发布渠道，更好的推送发行版到开发者手中。
  
  
-Distribution仅用于汇总存放官方、第三方HarmonyOS开源发行版的元数据，作为Harmony包管理（HPM）、DevEco IDE工具等后续环节的元数据源头。我们强烈推荐开发者通过[Harmony包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)方便快捷的获取HarmonyOS开源发行版。
+Distribution仅用于汇总存放官方、第三方HarmonyOS开源发行版的元数据，作为Harmony包管理（HPM）、DevEco IDE工具等后续环节的元数据源头。我们强烈推荐开发者通过[HarmonyOS包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)方便快捷的获取HarmonyOS开源发行版。
   
   
 HarmonyOS开源发行版设置为两个认证等级，等级将体现在OpenHarmony/distribution目录、HPM官网和IDE环境中：

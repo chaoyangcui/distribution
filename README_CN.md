@@ -10,9 +10,11 @@ Distribution仅用于汇总存放官方、第三方HarmonyOS开源发行版的�
 HarmonyOS开源发行版设置为两个认证等级，等级将体现在OpenHarmony/distribution目录、HPM官网和IDE环境中：
 -  **官方** ，源码被OpenHarmony社区正式接纳的HarmonyOS开源发行版。
 -  **第三方** ，满足以下条件之一的HarmonyOS开源发行版：
-  - 二进制被OpenHarmony社区正式接纳；
-  - 源码被OpenHarmony-SIG（Special Interest Groups）接纳，但尚未被OpenHarmony社区正式接纳；
-  - 源码或二进制在OpenHarmony-SIG及OpenHarmony社区之外的HarmonyOS开源发行版。
+   - 二进制被OpenHarmony社区正式接纳；
+   - 源码被OpenHarmony-SIG（Special Interest Groups）接纳，但尚未被OpenHarmony社区正式接纳；
+   - 源码或二进制在OpenHarmony-SIG及OpenHarmony社区之外的HarmonyOS开源发行版。
+
+
 
 Distribution建议每个发行版存储的元数据包括：
 - bundle.json(要求能准确生成完整依赖)

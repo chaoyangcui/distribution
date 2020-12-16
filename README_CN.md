@@ -1,7 +1,7 @@
 # HarmonyOS开源发行版（HarmonyOS Open-Source Distribution）
 
 HarmonyOS开源发行版（以下简称发行版）是为开发者提供的按需定制的版本，主要目的如下：
-1. **向开发者提供按需定制版本** ：以明确的芯片\开发板\模组\Demo等为颗粒度，联合业界合作伙伴交付按需定制的HarmonyOS开源发行版，提升开发人员基于HarmonyOS开发的体验和效率；
+1. **向开发者提供按需定制版本** ：以明确的芯片/开发板/模组/Demo等为颗粒度，联合业界合作伙伴交付按需定制的HarmonyOS开源发行版，提升开发人员基于HarmonyOS开发的体验和效率；
 2. **向合作伙伴提供最后一公里精准推送能力** ：打通包括[OpenHarmony社区](https://gitee.com/openharmony)、[HarmonyOS包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)等在内的发行版分发管道，帮助合作伙伴优化最后一公里发布渠道，更好的推送发行版到开发者手中。
  
  

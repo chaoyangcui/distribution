@@ -2,26 +2,26 @@
 
 HarmonyOS开源发行版（以下简称发行版）是为开发者提供的按需定制的版本，主要目的如下：
 1. **向开发者提供按需定制版本** ：以明确的芯片\开发板\模组\Demo等为颗粒度，联合业界合作伙伴交付按需定制的HarmonyOS开源发行版，提升开发人员基于HarmonyOS开发的体验和效率；
-2. **向合作伙伴提供最后一公里精准推送能力** ：打通包括OpenHarmony社区、HarmonyOS包管理（HPM）、DevEco IDE工具等在内的发行版分发管道，帮助合作伙伴优化最后一公里发布渠道，更好的推送发行版到开发者手中。
+2. **向合作伙伴提供最后一公里精准推送能力** ：打通包括[OpenHarmony社区](https://gitee.com/openharmony)、[HarmonyOS包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)等在内的发行版分发管道，帮助合作伙伴优化最后一公里发布渠道，更好的推送发行版到开发者手中。
  
  
-Distribution仅用于汇总存放官方、第三方HarmonyOS开源发行版的元数据，作为Harmony包管理（HPM）、DevEco IDE工具等后续环节的元数据源头。我们强烈推荐开发者通过[HarmonyOS包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)方便快捷的获取HarmonyOS开源发行版。
+Distribution仅用于汇总存放官方、第三方HarmonyOS开源发行版的元数据，作为[HarmonyOS包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)等后续环节的元数据源头。我们强烈推荐开发者通过[HarmonyOS包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)方便快捷的获取HarmonyOS开源发行版。
   
   
-HarmonyOS开源发行版设置为两个认证等级，等级将体现在OpenHarmony/distribution目录、HPM官网和IDE环境中：
--  **官方（Official）** ，源码被OpenHarmony社区正式接纳的HarmonyOS开源发行版。
+HarmonyOS开源发行版设置为两个认证等级，等级将体现在[Distribution仓](https://gitee.com/openharmony/distribution)、[HarmonyOS包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)环境中：
+-  **官方（Official）** ，源码被[OpenHarmony社区](https://gitee.com/openharmony)正式接纳的HarmonyOS开源发行版。
 -  **第三方（3rd-party）** ，满足以下条件之一的HarmonyOS开源发行版：
-   - 二进制被OpenHarmony社区正式接纳；
+   - 二进制被[OpenHarmony社区](https://gitee.com/openharmony)正式接纳；
    - 源码被OpenHarmony-SIG（Special Interest Groups）接纳，但尚未被OpenHarmony社区正式接纳；
-   - 源码或二进制在OpenHarmony-SIG及OpenHarmony社区之外的HarmonyOS开源发行版。
+   - 源码或二进制在OpenHarmony-SIG及[OpenHarmony社区](https://gitee.com/openharmony)之外的HarmonyOS开源发行版。
   
   
 建议Distribution中存放的每个发行版存储的元数据包括：
-- bundle.json(要求能准确生成完整依赖)
+- bundle.json：要求能准确生成完整依赖
 - LICENSE
 - README_CN.md
 - README_EN.md
-- CHANGELOG.md(第一个版本可选，从第二个版本开始必选，可拆分为中英文两个文件，命名规则同README)
+- CHANGELOG.md：用于记录该开源发行版的变更，可拆分为中英文两个文件，命名规则同README。
   
   
 发行版命名需考虑方便检索，具体规则如下：

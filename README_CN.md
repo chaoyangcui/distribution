@@ -12,8 +12,8 @@ HarmonyOS开源发行版设置为两个认证等级，等级将体现在[Distrib
 -  **官方（Official）** ，源码被[OpenHarmony社区](https://gitee.com/openharmony)正式接纳的HarmonyOS开源发行版。
 -  **第三方（3rd-party）** ，满足以下条件之一的HarmonyOS开源发行版：
    - 二进制被[OpenHarmony社区](https://gitee.com/openharmony)正式接纳；
-   - 源码被OpenHarmony-SIG（Special Interest Groups）接纳，但尚未被OpenHarmony社区正式接纳；
-   - 源码或二进制在OpenHarmony-SIG及[OpenHarmony社区](https://gitee.com/openharmony)之外的HarmonyOS开源发行版。
+   - 源码被[OpenHarmony-SIG](https://gitee.com/openharmony-sig)（Special Interest Groups）接纳，但尚未被OpenHarmony社区正式接纳；
+   - 源码或二进制在[OpenHarmony-SIG]( https://gitee.com/openharmony-sig )及[OpenHarmony社区](https://gitee.com/openharmony)之外的HarmonyOS开源发行版。
   
   
 建议Distribution中存放的每个发行版存储的元数据包括：

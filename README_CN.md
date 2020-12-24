@@ -10,7 +10,7 @@ Distribution仅用于汇总存放官方、第三方HarmonyOS开源发行版的�
   
 HarmonyOS开源发行版设置为两个认证等级，等级将体现在[Distribution仓](https://gitee.com/openharmony/distribution)、[HarmonyOS包管理（HPM](https://hpm.harmonyos.com/#/cn/home)）、[DevEco IDE工具](https://devecostudio.rnd.huawei.com/download/embedded-studio#download)环境中：
 -  **官方（Official）** ，源码被[OpenHarmony社区](https://gitee.com/openharmony)正式接纳的HarmonyOS开源发行版。
--  **第三方（3rd-party）** ，满足以下条件之一的HarmonyOS开源发行版：
+-  **第三方（3rd-party）** ，满足以下条件之一的HarmonyOS开源发行版，这些发行版由合作伙伴发布和维护：
    - 二进制被[OpenHarmony社区](https://gitee.com/openharmony)正式接纳；
    - 源码被[OpenHarmony-SIG](https://gitee.com/openharmony-sig)（Special Interest Groups）接纳，但尚未被OpenHarmony社区正式接纳；
    - 源码或二进制在[OpenHarmony-SIG]( https://gitee.com/openharmony-sig )及[OpenHarmony社区](https://gitee.com/openharmony)之外的HarmonyOS开源发行版。

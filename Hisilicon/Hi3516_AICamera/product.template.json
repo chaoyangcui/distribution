@@ -1,0 +1,28 @@
+{
+    "ohos_version": "1.0.0",
+    "board": "hi3516dv300",
+    "kernel": "liteos_a",
+    "compiler": "clang",
+    "compiler_dir": "prebuilts/clang/harmonyos/linux-x86_64/llvm",
+    "subsystem": [
+      
+    ],
+    "vendor_adapter_dir": "//vendor/hisi/hi35xx/hi3516dv300/hi3516dv300_adapter",
+    "third_party_dir": "//third_party",
+    "ohos_product_type":"",
+    "ohos_manufacture":"",
+    "ohos_brand":"",
+    "ohos_market_name":"",
+    "ohos_product_series":"",
+    "ohos_product_model":"",
+    "ohos_software_model":"",
+    "ohos_hardware_model":"",
+    "ohos_hardware_profile":"",
+    "ohos_serial":"",
+    "ohos_bootloader_version":"",
+    "ohos_secure_patch_level":"",
+    "ohos_abi_list":"",
+    "gn_dir":"/root/buildchain/gn/gn",
+    "ninja_dir":"/root/buildchain/nija/gn"
+  }
+  

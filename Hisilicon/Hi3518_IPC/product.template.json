@@ -1,0 +1,24 @@
+{
+    "ohos_version": "OHOS 2.0",
+    "board": "hi3518ev300",
+    "kernel": "liteos_a",
+    "compiler": "clang",
+    "subsystem": [
+    ],
+    "vendor_adapter_dir": "//vendor/hisi/hi35xx/hi3518ev300/hi3518ev300_adapter",
+    "third_party_dir": "//third_party",
+    "ohos_product_type":"",
+    "ohos_manufacture":"",
+    "ohos_brand":"",
+    "ohos_market_name":"",
+    "ohos_product_series":"",
+    "ohos_product_model":"",
+    "ohos_software_model":"",
+    "ohos_hardware_model":"",
+    "ohos_hardware_profile":"",
+    "ohos_serial":"",
+    "ohos_bootloader_version":"",
+    "ohos_secure_patch_level":"",
+    "ohos_abi_list":""
+  }
+  

@@ -1,0 +1,38 @@
+{
+    "name": "@hihope/neptune_iot",
+    "version": "0.0.4",
+    "publishAs": "distribution",
+    "scripts": {
+        "dist": "ln -sf ${DEP_BUNDLE_BASE}/build/lite/build.py ${DEP_BUNDLE_BASE}/build.py ; cd ${DEP_BUNDLE_BASE}&& python build.py w800"
+    },
+    "license": "Apache V2",
+    "dependencies": {
+        "@hihope/kenel": "^0.0.1",
+        "@hihope/oem_iotlink": "^0.0.1",
+        "@hihope/w800": "^0.0.1",
+        "@hihope/w800_adapter": "^0.0.2",
+        "@hihope/wifi_iot_sample_app": "^0.0.1",
+        "@hihope/iot_controller": "^0.0.1",
+        "@hihope/xts": "^0.0.2",
+        "@hihope/syspara_neptune": "^0.0.1",
+        "@hihope/system_ability_manager_neptune": "^0.0.1",
+        "@hihope/build": "^0.0.1",
+        "@ohos/hiview": "^1.0.0",
+        "@ohos/hichainsdk": "^1.0.0",
+        "@ohos/hilog_m": "^1.0.0",
+        "@ohos/unity": "^1.0.0",
+        "@ohos/bootstrap": "^1.0.0",
+        "@ohos/token": "^1.0.0",
+        "@ohos/wlan": "^1.0.0",
+        "@ohos/soft_bus": "^1.0.0",
+        "@ohos/utils": "^1.0.0",
+        "@ohos/cjson": "^1.0.0",
+        "@ohos/cmsis": "^1.0.0",
+        "@ohos/bounds_checking_function": "^1.0.0",
+        "@ohos/googletest": "^1.0.0",
+        "@ohos/harfbuzz": "^1.0.0",
+        "@ohos/developer_test": "^1.0.0",
+        "@ohos/gn": "^0.0.1-1523",
+        "@ohos/ninja": "^1.9.0"
+    }
+}
